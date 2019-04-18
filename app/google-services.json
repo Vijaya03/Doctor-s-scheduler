@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "8391425099",
+    "firebase_url": "https://medicalapp-74a46.firebaseio.com",
+    "project_id": "medicalapp-74a46",
+    "storage_bucket": "medicalapp-74a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8391425099:android:7f078dba1c951c7b",
+        "android_client_info": {
+          "package_name": "com.example.sana.medicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8391425099-4a3sgsg90eoahao2dic3736h2fot11o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sana.medicalapp",
+            "certificate_hash": "eff7d733fb60929072dc828bdc73ab4d586f6c6e"
+          }
+        },
+        {
+          "client_id": "8391425099-rev8j2i4754c3397uibqkq5df1rgkrst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzcoTt5lf3xx3ZosxlEvhEOjEBS-qBDtM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8391425099-rev8j2i4754c3397uibqkq5df1rgkrst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
